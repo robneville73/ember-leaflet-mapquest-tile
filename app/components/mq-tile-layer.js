@@ -1,0 +1,1 @@
+export { default } from 'ember-leaflet-mapquest-tile/components/mq-tile-layer';
