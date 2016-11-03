@@ -1,6 +1,6 @@
 {
   "name": "ember-leaflet-mapquest-tile",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Adds a mq-tile-layer component to use inside of ember-leaflet maps.",
   "directories": {
     "doc": "doc",
