@@ -42,7 +42,8 @@
     "loader.js": "^4.0.10"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-leaflet"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.7",
